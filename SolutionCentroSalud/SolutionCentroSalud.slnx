@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CentroSalud.BLL/CentroSalud.BLL.csproj" />
+  <Project Path="CentroSalud.DAL/CentroSalud.DAL.csproj" />
+  <Project Path="CentroSalud.Entity/CentroSalud.Entity.csproj" />
+  <Project Path="CentroSalud.InversionOfControl/CentroSalud.InversionOfControl.csproj" />
+  <Project Path="CentroSalud.UI/CentroSalud.UI.csproj" />
+</Solution>
