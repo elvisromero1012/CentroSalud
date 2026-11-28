@@ -6,6 +6,7 @@ public class Cita
 {
     [Key]
     public int IdCita { get; set; }
+    public string NumeroCita { get; set; } = null!;
     public int IdPaciente { get; set; }
     public int IdMedico { get; set; }
     public DateTime FechaHora { get; set; }
